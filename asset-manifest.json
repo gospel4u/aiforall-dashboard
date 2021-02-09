@@ -6,19 +6,19 @@
     "runtime-main.js": "/aiforall-dashboard/static/js/runtime-main.8f353ad7.js",
     "runtime-main.js.map": "/aiforall-dashboard/static/js/runtime-main.8f353ad7.js.map",
     "static/css/2.de424728.chunk.css": "/aiforall-dashboard/static/css/2.de424728.chunk.css",
-    "static/js/2.17e55119.chunk.js": "/aiforall-dashboard/static/js/2.17e55119.chunk.js",
-    "static/js/2.17e55119.chunk.js.map": "/aiforall-dashboard/static/js/2.17e55119.chunk.js.map",
+    "static/js/2.66d974c4.chunk.js": "/aiforall-dashboard/static/js/2.66d974c4.chunk.js",
+    "static/js/2.66d974c4.chunk.js.map": "/aiforall-dashboard/static/js/2.66d974c4.chunk.js.map",
     "index.html": "/aiforall-dashboard/index.html",
-    "precache-manifest.fca1b6d3fc7ffd7c61c01aeba7ac3ddf.js": "/aiforall-dashboard/precache-manifest.fca1b6d3fc7ffd7c61c01aeba7ac3ddf.js",
+    "precache-manifest.e683db98af9326c439db4605f50870a3.js": "/aiforall-dashboard/precache-manifest.e683db98af9326c439db4605f50870a3.js",
     "service-worker.js": "/aiforall-dashboard/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/aiforall-dashboard/static/css/2.de424728.chunk.css.map",
     "static/css/main.12cf8338.chunk.css.map": "/aiforall-dashboard/static/css/main.12cf8338.chunk.css.map",
-    "static/js/2.17e55119.chunk.js.LICENSE.txt": "/aiforall-dashboard/static/js/2.17e55119.chunk.js.LICENSE.txt"
+    "static/js/2.66d974c4.chunk.js.LICENSE.txt": "/aiforall-dashboard/static/js/2.66d974c4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8f353ad7.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.17e55119.chunk.js",
+    "static/js/2.66d974c4.chunk.js",
     "static/css/main.12cf8338.chunk.css",
     "static/js/main.d675d7d7.chunk.js"
   ]
