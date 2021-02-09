@@ -19,24 +19,24 @@ function Lectures() {
                     </thead>
                     <tbody className="table-head-data">
                         <tr>
-                            <th scope="row" class="table-head-data">1주차 화 (3/03)</th>
+                            <th scope="row" class="table-head-data">1주차 화 (3/2)</th>
                             <td>
-                                <a href="https://youtu.be/AQrsOyl7-U8">모인활 강의 1주차 안내</a><br/>
-                                <a href="https://www.youtube.com/watch?v=lmXxSkkoWSc&feature=youtu.be">01CrushPython Overview1</a><br/>
-                                <a href="https://youtu.be/dv7-iI3_4FM">01CrushPython Overview2</a><br/>
-                                <a href="https://www.youtube.com/watch?v=4vhngnrWGi4">01CrushPython Overview3</a><br/>
+                                <a href="">모인활 강의 1주차 안내</a><br/>
+                                <a href="">01CrushPython Overview1</a><br/>
+                                <a href="">01CrushPython Overview2</a><br/>
+                                <a href="">01CrushPython Overview3</a><br/>
                             </td>
                             <td>
-                                <a href="https://youtu.be/dv7-iI3_4FM">00 CrushPython Overview1, 2, 3 ... </a><br/>
-                                <a href="https://piazza.com/class/k7222vwq8y61ni?cid=21">[3/3] 출석체크 방법과 숙제</a><br/>
+                                <a href="">00 CrushPython Overview1, 2, 3 ... </a><br/>
+                                <a href="">[3/3] 출석체크 방법과 숙제</a><br/>
                             </td>
-                            <td class="over-due">3/05 23:55</td>
+                            <td></td>
                             <td>
-                                <a href="https://piazza.com/class/k7222vwq8y61ni?cid=24">[제출] HW1 제출</a>
+                                <a href="">[제출] HW1 제출</a>
                             </td>
                         </tr>
 
-                        <tr>
+                        {/* <tr>
                             <th scope="row" class="table-head-data ">1주차 금 (3/06)</th>
                             <td>
                                 <a href="https://youtu.be/E7WCMCk1Zl0">02CrushPython Shell</a> <br/>
@@ -405,7 +405,7 @@ function Lectures() {
                             <td>
                                 -
                             </td>
-                        </tr>
+                        </tr> */}
                     </tbody>
                 </table>
             </div>
