@@ -17,8 +17,9 @@ function Bible() {
                 <br/>
                 <br/>
                 <br/>
-
-                
+                <center>
+                <iframe width="80%" height="700px" src="https://www.youtube.com/embed/XdMvtpgUel0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
+                </center>
                 <br/>
                 <br/>
                 <center>
