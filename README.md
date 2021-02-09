@@ -35,3 +35,12 @@ App.js
 npm run deploy
 ```
 
+## 개발환경
+``` bash
+	npm install react
+	npm install -g react scripts
+	npm install i
+	npm install react-router-dom
+
+```
+
