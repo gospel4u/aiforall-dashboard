@@ -12,17 +12,34 @@ function Bible() {
                 <br/>
                 <center> 
                     누구에게나 시작이 주어지며, 누구든지 끝을 피할 수 없습니다.
+                    <br/>Begin with the End in Mind
                 </center>
                 <br/>
                 <br/>
                 <br/>
+<<<<<<< Updated upstream
 
                 
-                <br/>
+=======
+                <center>
+                <iframe width="80%" height="700px" src="https://www.youtube.com/embed/XdMvtpgUel0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
+                </center>
+>>>>>>> Stashed changes
                 <br/>
                 <br/>
                 <center>
                     한동에서 매일의 삶의 여정이 하나님 보시기에 합한 자들로 세워가기를 축복합니다. <br />
+<<<<<<< Updated upstream
+=======
+                </center>
+                <br/>
+                <center>
+                    [전도서12장1절] "너는 청년의 때에 너의 창조주를 기억하라 곧 곤고한 날이 이르기 전에 나는 아무 낙이 없다고 할 해들이 가깝기 전에" <br />
+                </center>  
+                <br/>
+                <center>
+                    <b>문의: 21800499@handong.edu</b> <br />
+>>>>>>> Stashed changes
                 </center> 
                 <br/>
                 <center>

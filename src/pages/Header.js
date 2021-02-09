@@ -1,5 +1,4 @@
 import React from 'react';
-import jquery from 'jquery';
 
 function Header() {
     return (

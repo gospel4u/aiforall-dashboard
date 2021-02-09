@@ -1,6 +1,5 @@
 import React from 'react'
 import Lectures from './Lectures'
-import Announce from './Announce'
 import KMOOC_Famouse from './KMOOC_Famouse'
 import KMOOC_AI from './KMOOC_AI'
 import PYF from './pyf'
@@ -17,12 +16,12 @@ function Container() {
             <div className="border-box">
                 <Button />
                 <Lectures />
-                <Project />
                 {/* <Announce /> */}
                 <KMOOC_Famouse />
                 <KMOOC_AI />
-                <PYF />
+                {/* <PYF /> */}
                 <Score />
+                {/* <Project /> */}
                 <Bible />
             </div>
             <Footer />

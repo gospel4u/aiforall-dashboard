@@ -15,7 +15,7 @@ a:hover { color: #00299b;; text-decoration: none;}
   margin: 0;
   position: relative;
   min-height: 100vh;
-  background-image: url(https://poiemaweb.com/img/bg/1920x1080.jpg);
+  background-image: url(https://github.com/returnb2b/aiforall-dashboard/blob/master/src/img/sunset-5299957_1920.jpg?raw=true);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -90,11 +90,12 @@ a:hover { color: #00299b;; text-decoration: none;}
 .type-wrap {
   font-family: 'Montserrat', sans-serif;
   color: white;
-  font-size: 6vw;
+  font-size: 5vw;
   text-align: center;
   top: 45%;
   position: absolute;
-  margin-left: 17.3%;
+  left: 20%;
+  right: 20%;
 }
 
 .typed-cursor {
