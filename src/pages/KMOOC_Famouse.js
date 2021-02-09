@@ -21,12 +21,6 @@ function KMOOC_Famouse() {
                 <tbody class="table-head-data">
                     {/* <tr>
                         <th scope="col" class="table-head-data"> KMOOC 명강의 1주차 퀴즈</th>    
-<<<<<<< Updated upstream
-                        <td scope="col" class="table-head-data">  </td>   
-                        <td scope="col" class="table-head-data"> 응시 기간 내 KMOOC에서 시험 응시 </td> 
-                    </tr>
-                    <div class="over-due"></div>
-=======
                         <td scope="col" class="table-head-data"> <div class="over-due">2주차 월요일 9:30 ~ 3주차 월요일 23:55</div> </td>   
                         <td scope="col" class="table-head-data"> 응시 기간 내 KMOOC에서 시험 응시 </td> 
                     </tr> */}
@@ -90,7 +84,6 @@ function KMOOC_Famouse() {
                         <td scope="col" class="table-head-data"> <div class="over-due">14주차 월요일 9:30 ~  15주차 월요일 23:55</div></td> 
                         <td scope="col" class="table-head-data"> 응시 기간 내 KMOOC에서 시험 응시 </td> 
                     </tr> */}
->>>>>>> Stashed changes
                 </tbody>
             </table>
 

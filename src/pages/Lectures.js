@@ -18,13 +18,8 @@ function Lectures() {
                         </tr>
                     </thead>
                     <tbody className="table-head-data">
-<<<<<<< Updated upstream
-                        <tr>
-                            <th scope="row" class="table-head-data">1주차 화 (3/2)</th>
-=======
                         {/* <tr>
                             <th scope="row" class="table-head-data">1주차 화 (3/03)</th>
->>>>>>> Stashed changes
                             <td>
                                 <a href="">모인활 강의 1주차 안내</a><br/>
                                 <a href="">01CrushPython Overview1</a><br/>

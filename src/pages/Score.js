@@ -9,26 +9,17 @@ function Score() {
             <div className="block-content">
             <table class="table table-hover">
                 <thead>
-<<<<<<< Updated upstream
-                  {/* <tr>
-                    <th scope="col" class="table-head-data">이름</th>
-=======
                   <tr>
                     <th scope="col" class="table-head-data">과제</th>
->>>>>>> Stashed changes
                     <th scope="col" class="table-head-data">점수 공지 링크</th>
                     <th scope="col" class="table-head-data">점수 공지 날짜</th>
-                  </tr> */}
+                  </tr>
                 </thead>
                 <tbody class="table-head-data">
                     {/* <tr>
                         <th scope="col" class="table-head-data"> HW1. HW2 </th>   
                         <td scope="col" class="table-head-data"> <a href="https://piazza.com/class/k7222vwq8y61ni?cid=211">[점수] HW1, HW2 점수를 공지합니다.</a> </td>  
                         <th scope="col" class="table-head-data"> 20.03.11 AM 02:50 </th>   
-<<<<<<< Updated upstream
-                    </tr> */}
-                    
-=======
                     </tr>
                     <tr>
                         <th scope="col" class="table-head-data"> HW3, HW4, Py4e 1, KMOOC 1주차 </th>   
@@ -85,7 +76,6 @@ function Score() {
                         <td scope="col" class="table-head-data"> 학기말에 일괄 공지 </td>  
                         <th scope="col" class="table-head-data"> 15주차 예정 </th>   
                     </tr> */}
->>>>>>> Stashed changes
                     
                 </tbody>
             </table>

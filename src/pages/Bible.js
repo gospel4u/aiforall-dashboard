@@ -17,20 +17,12 @@ function Bible() {
                 <br/>
                 <br/>
                 <br/>
-<<<<<<< Updated upstream
 
                 
-=======
-                <center>
-                <iframe width="80%" height="700px" src="https://www.youtube.com/embed/XdMvtpgUel0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
-                </center>
->>>>>>> Stashed changes
                 <br/>
                 <br/>
                 <center>
                     한동에서 매일의 삶의 여정이 하나님 보시기에 합한 자들로 세워가기를 축복합니다. <br />
-<<<<<<< Updated upstream
-=======
                 </center>
                 <br/>
                 <center>
@@ -39,7 +31,6 @@ function Bible() {
                 <br/>
                 <center>
                     <b>문의: 21800499@handong.edu</b> <br />
->>>>>>> Stashed changes
                 </center> 
                 <br/>
                 <center>
