@@ -18,10 +18,14 @@ function Bible() {
                 <br/>
                 <br/>
                 <center>
-                <iframe width="80%" height="700px" src="https://www.youtube.com/embed/XdMvtpgUel0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
+                <iframe width="80%" height="700px" src="https://www.youtube.com/embed/azb23bcwNZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
                 </center>
                 <br/>
                 <br/>
+
+                <center>
+                <iframe width="80%" height="700px" src="https://www.youtube.com/embed/IGYbKOAV9D0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
+                </center>
                 <center>
                     한동에서 매일의 삶의 여정이 하나님 보시기에 합한 자들로 세워가기를 축복합니다. <br />
                 </center>
