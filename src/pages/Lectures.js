@@ -18,23 +18,22 @@ function Lectures() {
                         </tr>
                     </thead>
                     <tbody className="table-head-data">
-                        {/* <tr>
+                        { <tr>
                             <th scope="row" class="table-head-data">1주차 화 (3/03)</th>
                             <td>
-                                <a href="">모인활 강의 1주차 안내</a><br/>
-                                <a href="">01CrushPython Overview1</a><br/>
-                                <a href="">01CrushPython Overview2</a><br/>
-                                <a href="">01CrushPython Overview3</a><br/>
+                                <a href="https://piazza.com/handong/spring2021/gek10109/resources">ai1-1 Getting Started</a><br/>
+                                <a href="https://piazza.com/handong/spring2021/gek10109/resources">01 모인활 강의계획 2021-1</a><br/>
+                                <a href="https://piazza.com/handong/spring2021/gek10109/resources">02 모인활 1주차 안내</a><br/>
+                                <a href="https://piazza.com/handong/spring2021/gek10109/resources">03 모인활 Git, GitHub Desktop</a><br/>
                             </td>
                             <td>
-                                <a href="">00 CrushPython Overview1, 2, 3 ... </a><br/>
-                                <a href="">[3/3] 출석체크 방법과 숙제</a><br/>
+                                [3/2(화)] 출석체크 : 닉네임 제출<br/>
                             </td>
-                            <td></td>
+                            <td><div class="">3/2(화) 23:30</div></td>
                             <td>
-                                <a href="">[제출] HW1 제출</a>
+                                Piazza를 통해 logistics폴더에 Private으로 제출
                             </td>
-                        </tr> */}
+                        </tr> }
 
                         {/* <tr>
                             <th scope="row" class="table-head-data ">1주차 금 (3/06)</th>
