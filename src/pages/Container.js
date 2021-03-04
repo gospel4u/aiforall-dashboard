@@ -17,8 +17,8 @@ function Container() {
                 <Button />
                 <Lectures />
                 {/* <Announce /> */}
-                {/*<KMOOC_Famouse />*/}
-                {/*<KMOOC_AI />*/}
+                <KMOOC_Famouse />
+                <KMOOC_AI />
                 {/* <PYF /> */}
                 {/*<Score />*/}
                 {/* <Project /> */}

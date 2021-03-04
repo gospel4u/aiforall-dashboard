@@ -29,9 +29,11 @@ function Lectures() {
                             <td>
                                 [3/2(화)] 출석체크 : 닉네임 제출<br/>
                             </td>
-                            <td><div class="">3/2(화) 23:30</div></td>
+                            <td><div class="over-due">3/2(화) 23:30</div></td>
                             <td>
                                 Piazza를 통해 logistics폴더에 Private으로 제출
+                                <br/> 수강정정기간에 들어오신 분은 저에게 개인적으로 메일을 보내주세요.
+                                <br/> kjune18@naver.com
                             </td>
                         </tr> }
 
